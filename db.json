@@ -31,7 +31,7 @@
         "price": 150000,
         "status": true,
         "image": "https://suzukicdn.net/assets/static/img/variant/Suzuki_Ignis_GX_Hero_Angle_FLIP_STARGAZE_ORANYE___BLACK1.png"
-      }
+      },
       {
         "id": 5,
         "name": "Suzuki APV",
@@ -39,7 +39,7 @@
         "price": 200000,
         "status": false,
         "image": "https://e7.pngegg.com/pngimages/572/316/png-clipart-suzuki-apv-van-car-suzuki-kizashi-suzuki-compact-car-van.png"
-      }
+      },
       {
         "id": 6,
         "name": "Suzuki Baleno",
@@ -47,7 +47,7 @@
         "price": 200000,
         "status": true,
         "image": "https://dealerresmisuzuki.com/wp-content/uploads/2017/12/Hero-Angle-Suzuki-Baleno-Red.png"
-      }
+      },
       {
         "id": 7,
         "name": "Suzuki SX4 Cross",

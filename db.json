@@ -1,0 +1,36 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "name": "Suzuki XL7",
+        "category": "medium",
+        "price": 250.000,
+        "status": false,
+        "image": "https://static.otoloka.id/article_image/2020/8/11/0533f895405e4277a8c1e028e1698d3c.jpg?x-oss-process=image/format,webp"
+      },
+      {
+        "id": 2,
+        "name": "Suzuki Jimny",
+        "category": "large",
+        "price": 350.000,
+        "status": true,
+        "image": "https://suzukicdn.net/assets/static/img/variant/thumb/Jimny-Green.png"
+      },
+      {
+        "id": 3,
+        "name": "Suzuki Ertiga",
+        "category": "medium",
+        "price": 200.000,
+        "status": false,
+        "image": "https://akcdn.detik.net.id/visual/2021/11/11/suzuki-sport-ff_169.png?w=650"
+      },
+      {
+        "id": 4,
+        "name": "Suzuki Ignis",
+        "category": "small",
+        "price": 150.000,
+        "status": true,
+        "image": "https://suzukicdn.net/assets/static/img/variant/Suzuki_Ignis_GX_Hero_Angle_FLIP_STARGAZE_ORANYE___BLACK1.png"
+      }
+    ]
+  }

@@ -4,7 +4,7 @@
         "id": 1,
         "name": "Suzuki XL7",
         "category": "medium",
-        "price": 250.000,
+        "price": 250000,
         "status": false,
         "image": "https://static.otoloka.id/article_image/2020/8/11/0533f895405e4277a8c1e028e1698d3c.jpg?x-oss-process=image/format,webp"
       },
@@ -12,7 +12,7 @@
         "id": 2,
         "name": "Suzuki Jimny",
         "category": "large",
-        "price": 350.000,
+        "price": 350000,
         "status": true,
         "image": "https://suzukicdn.net/assets/static/img/variant/thumb/Jimny-Green.png"
       },
@@ -20,7 +20,7 @@
         "id": 3,
         "name": "Suzuki Ertiga",
         "category": "medium",
-        "price": 200.000,
+        "price": 200000,
         "status": false,
         "image": "https://akcdn.detik.net.id/visual/2021/11/11/suzuki-sport-ff_169.png?w=650"
       },
@@ -28,9 +28,33 @@
         "id": 4,
         "name": "Suzuki Ignis",
         "category": "small",
-        "price": 150.000,
+        "price": 150000,
         "status": true,
         "image": "https://suzukicdn.net/assets/static/img/variant/Suzuki_Ignis_GX_Hero_Angle_FLIP_STARGAZE_ORANYE___BLACK1.png"
+      }
+      {
+        "id": 5,
+        "name": "Suzuki APV",
+        "category": "large",
+        "price": 200000,
+        "status": false,
+        "image": "https://e7.pngegg.com/pngimages/572/316/png-clipart-suzuki-apv-van-car-suzuki-kizashi-suzuki-compact-car-van.png"
+      }
+      {
+        "id": 6,
+        "name": "Suzuki Baleno",
+        "category": "small",
+        "price": 200000,
+        "status": true,
+        "image": "https://dealerresmisuzuki.com/wp-content/uploads/2017/12/Hero-Angle-Suzuki-Baleno-Red.png"
+      }
+      {
+        "id": 7,
+        "name": "Suzuki SX4 Cross",
+        "category": "small",
+        "price": 200000,
+        "status": true,
+        "image": "https://img.favpng.com/10/6/10/maruti-suzuki-maruti-suzuki-car-suzuki-sx4-s-cross-png-favpng-8tEtuw9CEiH6SDmii4jmqA056.jpg"
       }
     ]
   }
